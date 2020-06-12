@@ -1,0 +1,21 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "scraping a web page using puppeteer",
+  "main": "flipkartScraper.js",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "puppeteer": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jay-2019/web-scraper.git"
+  },
+  "author": "Jay Prakash Maurya <jay.mauryavanshi2014@gmail.com>",
+  "license": "ISC"
+}
